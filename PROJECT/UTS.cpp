@@ -1,7 +1,6 @@
 #include <iostream>
 #include <ctime>
 #include <string>
-#include <cstdlib> // for rand() and srand()
 
 using namespace std;
 
